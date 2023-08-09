@@ -1,5 +1,9 @@
-# Merge Sorted Array
+## 88. Merge Sorted Array
 
-## Time complexity
+https://leetcode.com/problems/merge-sorted-array
 
-O(n+m)
+| | |
+| -- | -- |
+| Difficulty | EASY |
+| Time complexity | $O(n+m)$ |
+| Space complexity | $O(1)$ |
